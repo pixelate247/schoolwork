@@ -1,2 +1,2 @@
-# schoolwork
-Schoolwork
+# Schoolwork
+Go to the GitHub Pages
